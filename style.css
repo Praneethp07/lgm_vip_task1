@@ -65,6 +65,7 @@ box-shadow:  -8px 8px 9px #15313e,
 }
 
 input {
+    font-family: silkscreen;
     font-size: 2rem;
     background: #357a9c;;
     box-shadow: inset -5px 5px 10px #15313e,
