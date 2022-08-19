@@ -28,7 +28,7 @@ h1{
 .container {
     height: auto;
     width: auto;
-    margin: 10rem;
+    margin: 3rem;
     display: flex;
     flex-direction: column;
     padding: 2rem;
@@ -109,7 +109,6 @@ box-shadow:  -6px 6px 12px #15313e,
 }
 @media screen and (max-width:600px){
     .container{
-        margin: 0%;
         width: 350px;
     }
     .headder{
@@ -124,9 +123,6 @@ box-shadow:  -6px 6px 12px #15313e,
     }
     input{
         width: 15rem;
-    }
-    .container{
-        margin: 10rem;
     }
 }
 
