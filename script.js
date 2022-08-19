@@ -41,7 +41,7 @@ if(e.target.classList.contains('delete')){
 
 list.addEventListener('click',(e)=>{
     if(e.target.classList.contains('edit')){
-        e.target.parentElement.classList.toggle('completed');
+        e.target.parentElement.parentElement.classList.toggle('completed');
     }
 });
 function rem(){
