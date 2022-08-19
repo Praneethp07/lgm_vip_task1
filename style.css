@@ -109,7 +109,8 @@ box-shadow:  -6px 6px 12px #15313e,
 }
 @media screen and (max-width:600px){
     .container{
-        width: 350px;
+        margin-top:10px;
+        width: 330px;
     }
     .headder{
         display: flex;
